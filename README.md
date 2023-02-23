@@ -31,3 +31,4 @@
         # Update turtle screen
         wn.update()
 ```
+
